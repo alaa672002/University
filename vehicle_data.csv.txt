@@ -1,4 +1,0 @@
-Vehicle_ID,Weight_limit
-1,500
-2,300
-3,600
